@@ -52,7 +52,7 @@ TestLink, Grafana, LAIKA, Sitecore, Salesforce.
 
 **Programming Languages**: `Java Script`.
 
-Software: `VS Code`.
+Software: `VS Code`, Dev Tools.
 
 ## **Education**
 ### **STUDENT, SOFTWARE TESTING LAB – EPAM SYSTEMS**
